@@ -1,0 +1,907 @@
+.home-page-austin {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 100%;
+  min-width: 1440px;
+  min-height: 1024px;
+  position: relative;
+}
+
+.home-page-austin .group {
+  position: absolute;
+  width: 1442px;
+  height: 1814px;
+  top: -661px;
+  left: -2px;
+}
+
+.home-page-austin .div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1456px;
+  height: 1800px;
+}
+
+.home-page-austin .group-wrapper {
+  position: absolute;
+  width: 1442px;
+  height: 1685px;
+  top: 0;
+  left: 0;
+  display: flex;
+}
+
+.home-page-austin .group-2 {
+  width: 1450px;
+  height: 1685px;
+  position: relative;
+}
+
+.home-page-austin .image {
+  position: absolute;
+  top: 785px;
+  left: 2px;
+  width: 1438px;
+  height: 900px;
+  aspect-ratio: 1.6;
+  object-fit: cover;
+}
+
+.home-page-austin .rectangle {
+  position: absolute;
+  top: 654px;
+  left: 0;
+  width: 1442px;
+  height: 162px;
+  background-color: #0f0f0f;
+}
+
+.home-page-austin .text-wrapper {
+  position: absolute;
+  top: 665px;
+  left: 26px;
+  width: 820px;
+  font-family: "Jersey 25-Regular", Helvetica;
+  font-weight: 400;
+  color: #fd7f25;
+  font-size: 150px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.home-page-austin .text-wrapper-2 {
+  position: absolute;
+  top: 1px;
+  left: 37px;
+  width: 820px;
+  font-family: "Jersey 25-Regular", Helvetica;
+  font-weight: 400;
+  color: #fd7f25;
+  font-size: 150px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.home-page-austin .text-wrapper-3 {
+  position: absolute;
+  top: 696px;
+  left: 710px;
+  width: 190px;
+  height: 92px;
+  display: flex;
+  align-items: center;
+  font-family: "Jersey 25-Regular", Helvetica;
+  font-weight: 400;
+  color: #fd7f25;
+  font-size: 96px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.home-page-austin .text-wrapper-4 {
+  position: absolute;
+  top: 28px;
+  left: 721px;
+  width: 190px;
+  height: 92px;
+  display: flex;
+  align-items: center;
+  font-family: "Jersey 25-Regular", Helvetica;
+  font-weight: 400;
+  color: #fd7f25;
+  font-size: 96px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.home-page-austin .group-3 {
+  position: absolute;
+  top: 727px;
+  left: 952px;
+  width: 331px;
+  height: 56px;
+}
+
+.home-page-austin .rectangle-2 {
+  position: absolute;
+  top: 0;
+  left: 32px;
+  width: 267px;
+  height: 56px;
+  background-color: #d9d9d9;
+}
+
+.home-page-austin .ellipse {
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 32px;
+  height: 56px;
+}
+
+.home-page-austin .img {
+  left: 299px;
+  position: absolute;
+  top: 0;
+  width: 32px;
+  height: 56px;
+}
+
+.home-page-austin .image-2 {
+  position: absolute;
+  top: 740px;
+  left: 965px;
+  width: 36px;
+  height: 36px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.home-page-austin .image-3 {
+  position: absolute;
+  top: 723px;
+  left: 1354px;
+  width: 63px;
+  height: 63px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.home-page-austin .rectangle-3 {
+  position: absolute;
+  top: 997px;
+  left: 52px;
+  width: 1116px;
+  height: 214px;
+  background-color: #393838;
+}
+
+.home-page-austin .rectangle-4 {
+  position: absolute;
+  top: 1311px;
+  left: 51px;
+  width: 373px;
+  height: 214px;
+  background-color: #393838;
+}
+
+.home-page-austin .rectangle-5 {
+  position: absolute;
+  top: 1311px;
+  left: 437px;
+  width: 373px;
+  height: 214px;
+  background-color: #393838;
+}
+
+.home-page-austin .rectangle-6 {
+  position: absolute;
+  top: 1311px;
+  left: 824px;
+  width: 377px;
+  height: 214px;
+  background-color: #393838;
+}
+
+.home-page-austin .image-4 {
+  position: absolute;
+  top: 1005px;
+  left: 65px;
+  width: 347px;
+  height: 195px;
+  aspect-ratio: 1.78;
+  object-fit: cover;
+}
+
+.home-page-austin .text-wrapper-5 {
+  position: absolute;
+  top: 892px;
+  left: 65px;
+  width: 326px;
+  font-family: "Jersey 25-Regular", Helvetica;
+  font-weight: 400;
+  color: #f3f3f3;
+  font-size: 96px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page-austin .text-wrapper-6 {
+  position: absolute;
+  top: 1549px;
+  left: 55px;
+  width: 350px;
+  font-family: "Jersey 25-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page-austin .text-wrapper-7 {
+  position: absolute;
+  top: 1235px;
+  left: 65px;
+  width: 288px;
+  font-family: "Jersey 25-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page-austin .prices-so-good-you {
+  position: absolute;
+  top: 840px;
+  left: 84px;
+  width: 467px;
+  font-family: "Jersey 25-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page-austin .image-5 {
+  position: absolute;
+  top: 1007px;
+  left: 809px;
+  width: 338px;
+  height: 190px;
+  aspect-ratio: 1.78;
+  object-fit: cover;
+}
+
+.home-page-austin .rectangle-7 {
+  position: absolute;
+  top: 1170px;
+  left: 65px;
+  width: 237px;
+  height: 30px;
+  background-color: #1c1c1c;
+}
+
+.home-page-austin .group-4 {
+  position: absolute;
+  top: 1164px;
+  left: 260px;
+  width: 152px;
+  height: 36px;
+  display: flex;
+}
+
+.home-page-austin .polygon {
+  width: 33.56px;
+  height: 36px;
+}
+
+.home-page-austin .rectangle-8 {
+  width: 118.44px;
+  height: 36px;
+  margin-left: 0;
+  background-color: #85d385;
+}
+
+.home-page-austin .text-wrapper-8 {
+  position: absolute;
+  top: 1171px;
+  left: 76px;
+  width: 148px;
+  font-family: "Jost-Regular", Helvetica;
+  font-weight: 400;
+  color: #dadada;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page-austin .text-wrapper-9 {
+  position: absolute;
+  top: 1157px;
+  left: 308px;
+  width: 90px;
+  font-family: "Idiqlat-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page-austin .rectangle-9 {
+  position: absolute;
+  top: 1005px;
+  left: 326px;
+  width: 86px;
+  height: 31px;
+  background-color: #1e1e1e;
+}
+
+.home-page-austin .text-wrapper-10 {
+  top: 1007px;
+  left: 337px;
+  width: 68px;
+  position: absolute;
+  font-family: "Imprima-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page-austin .group-5 {
+  position: absolute;
+  top: 1005px;
+  left: 436px;
+  width: 353px;
+  height: 202px;
+}
+
+.home-page-austin .image-6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 340px;
+  height: 195px;
+  aspect-ratio: 1.75;
+  object-fit: cover;
+}
+
+.home-page-austin .rectangle-10 {
+  position: absolute;
+  top: 167px;
+  left: 1px;
+  width: 236px;
+  height: 28px;
+}
+
+.home-page-austin .group-6 {
+  position: absolute;
+  top: 162px;
+  left: 189px;
+  width: 151px;
+  height: 33px;
+  display: flex;
+}
+
+.home-page-austin .polygon-2 {
+  width: 33.36px;
+  height: 33.4px;
+}
+
+.home-page-austin .rectangle-11 {
+  width: 117.76px;
+  height: 33.4px;
+  margin-top: 0;
+  margin-left: 0;
+  background-color: #85d385;
+}
+
+.home-page-austin .text-wrapper-11 {
+  position: absolute;
+  top: 167px;
+  left: 8px;
+  width: 183px;
+  font-family: "Jost-Regular", Helvetica;
+  font-weight: 400;
+  color: #dadada;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page-austin .text-wrapper-12 {
+  position: absolute;
+  top: 154px;
+  left: 237px;
+  width: 110px;
+  font-family: "Idiqlat-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page-austin .rectangle-12 {
+  position: absolute;
+  top: 0;
+  left: 254px;
+  width: 86px;
+  height: 29px;
+  background-color: #1e1e1e;
+}
+
+.home-page-austin .text-wrapper-13 {
+  position: absolute;
+  top: 0;
+  left: 266px;
+  width: 68px;
+  font-family: "Imprima-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.home-page-austin .group-7 {
+  position: absolute;
+  top: 1007px;
+  left: 808px;
+  width: 352px;
+  height: 200px;
+}
+
+.home-page-austin .rectangle-13 {
+  position: absolute;
+  top: 165px;
+  left: 0;
+  width: 235px;
+  height: 28px;
+}
+
+.home-page-austin .group-8 {
+  position: absolute;
+  top: 160px;
+  left: 188px;
+  width: 151px;
+  height: 33px;
+  display: flex;
+}
+
+.home-page-austin .polygon-3 {
+  width: 33.27px;
+  height: 33.07px;
+}
+
+.home-page-austin .rectangle-14 {
+  width: 117.42px;
+  height: 33.07px;
+  margin-top: 0;
+  margin-left: 0;
+  background-color: #85d385;
+}
+
+.home-page-austin .text-wrapper-14 {
+  position: absolute;
+  top: 165px;
+  left: 8px;
+  width: 183px;
+  font-family: "Jost-Regular", Helvetica;
+  font-weight: 400;
+  color: #dadada;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page-austin .text-wrapper-15 {
+  top: 152px;
+  left: 236px;
+  width: 110px;
+  position: absolute;
+  font-family: "Idiqlat-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page-austin .rectangle-15 {
+  position: absolute;
+  top: 0;
+  left: 253px;
+  width: 85px;
+  height: 28px;
+  background-color: #1e1e1e;
+}
+
+.home-page-austin .text-wrapper-16 {
+  top: 0;
+  left: 271px;
+  width: 67px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Imprima-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page-austin .arrow-wrapper {
+  position: absolute;
+  top: 1071px;
+  left: 1178px;
+  width: 63px;
+  height: 62px;
+  display: flex;
+  background-color: #222222;
+  border-radius: 31.5px / 31px;
+  border: 1px solid;
+  border-color: #4f4d4d;
+}
+
+.home-page-austin .arrow {
+  margin-top: 20px;
+  width: 35.5px;
+  height: 22.09px;
+  margin-left: 15px;
+}
+
+.home-page-austin .rectangle-16 {
+  position: absolute;
+  top: 1313px;
+  left: 54px;
+  width: 367px;
+  height: 209px;
+  object-fit: cover;
+}
+
+.home-page-austin .image-7 {
+  position: absolute;
+  top: 1314px;
+  left: 439px;
+  width: 369px;
+  height: 208px;
+  aspect-ratio: 1.78;
+  object-fit: cover;
+}
+
+.home-page-austin .group-9 {
+  position: absolute;
+  top: 827px;
+  left: 51px;
+  width: 1335px;
+  height: 973px;
+}
+
+.home-page-austin .rectangle-17 {
+  position: absolute;
+  top: 170px;
+  left: 1px;
+  width: 1116px;
+  height: 214px;
+  background-color: #393838;
+}
+
+.home-page-austin .rectangle-18 {
+  position: absolute;
+  top: 484px;
+  left: 0;
+  width: 373px;
+  height: 214px;
+  background-color: #393838;
+}
+
+.home-page-austin .rectangle-19 {
+  position: absolute;
+  top: 484px;
+  left: 386px;
+  width: 373px;
+  height: 214px;
+  background-color: #393838;
+}
+
+.home-page-austin .rectangle-20 {
+  position: absolute;
+  top: 484px;
+  left: 773px;
+  width: 377px;
+  height: 214px;
+  background-color: #393838;
+}
+
+.home-page-austin .image-8 {
+  position: absolute;
+  top: 178px;
+  left: 14px;
+  width: 347px;
+  height: 195px;
+  aspect-ratio: 1.78;
+  object-fit: cover;
+}
+
+.home-page-austin .text-wrapper-17 {
+  position: absolute;
+  top: 65px;
+  left: 14px;
+  font-family: "Jersey 25-Regular", Helvetica;
+  font-weight: 400;
+  color: #f3f3f3;
+  font-size: 96px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.home-page-austin .text-wrapper-18 {
+  position: absolute;
+  top: 722px;
+  left: 4px;
+  font-family: "Jersey 25-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.home-page-austin .text-wrapper-19 {
+  position: absolute;
+  top: 408px;
+  left: 14px;
+  font-family: "Jersey 25-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.home-page-austin .text-wrapper-20 {
+  position: absolute;
+  top: 0;
+  left: 1248px;
+  font-family: "Jersey 25-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.home-page-austin .text-wrapper-21 {
+  position: absolute;
+  top: 0;
+  left: 1080px;
+  font-family: "Jersey 25-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.home-page-austin .text-wrapper-22 {
+  position: absolute;
+  top: 0;
+  left: 958px;
+  font-family: "Jersey 25-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.home-page-austin .p {
+  position: absolute;
+  top: 13px;
+  left: 33px;
+  width: 467px;
+  font-family: "Jersey 25-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page-austin .image-9 {
+  position: absolute;
+  top: 180px;
+  left: 758px;
+  width: 338px;
+  height: 190px;
+  aspect-ratio: 1.78;
+  object-fit: cover;
+}
+
+.home-page-austin .rectangle-21 {
+  position: absolute;
+  top: 343px;
+  left: 14px;
+  width: 237px;
+  height: 30px;
+  background-color: #1c1c1c;
+}
+
+.home-page-austin .group-10 {
+  position: absolute;
+  top: 337px;
+  left: 209px;
+  width: 152px;
+  height: 36px;
+  display: flex;
+}
+
+.home-page-austin .text-wrapper-23 {
+  position: absolute;
+  top: 344px;
+  left: 25px;
+  font-family: "Jost-Regular", Helvetica;
+  font-weight: 400;
+  color: #dadada;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page-austin .text-wrapper-24 {
+  top: 330px;
+  left: 257px;
+  position: absolute;
+  font-family: "Idiqlat-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page-austin .rectangle-22 {
+  position: absolute;
+  top: 178px;
+  left: 275px;
+  width: 86px;
+  height: 31px;
+  background-color: #1e1e1e;
+}
+
+.home-page-austin .text-wrapper-25 {
+  top: 180px;
+  left: 286px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Imprima-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page-austin .group-11 {
+  position: absolute;
+  top: 178px;
+  left: 385px;
+  width: 353px;
+  height: 202px;
+}
+
+.home-page-austin .group-12 {
+  position: absolute;
+  top: 180px;
+  left: 757px;
+  width: 352px;
+  height: 200px;
+}
+
+.home-page-austin .img-wrapper {
+  position: absolute;
+  top: 244px;
+  left: 1127px;
+  width: 63px;
+  height: 62px;
+  display: flex;
+  background-color: #222222;
+  border-radius: 31.5px / 31px;
+  border: 1px solid;
+  border-color: #4f4d4d;
+}
+
+.home-page-austin .rectangle-23 {
+  position: absolute;
+  top: 486px;
+  left: 3px;
+  width: 367px;
+  height: 209px;
+  object-fit: cover;
+}
+
+.home-page-austin .image-10 {
+  position: absolute;
+  top: 487px;
+  left: 388px;
+  width: 369px;
+  height: 208px;
+  aspect-ratio: 1.78;
+  object-fit: cover;
+}
+
+.home-page-austin .group-13 {
+  position: absolute;
+  top: 1314px;
+  left: 59px;
+  width: 1139px;
+  height: 500px;
+}
+
+.home-page-austin .image-11 {
+  position: absolute;
+  top: 313px;
+  left: 0;
+  width: 350px;
+  height: 58px;
+  aspect-ratio: 1.9;
+  object-fit: cover;
+}
+
+.home-page-austin .image-12 {
+  position: absolute;
+  top: 0;
+  left: 769px;
+  width: 370px;
+  height: 208px;
+  aspect-ratio: 1.78;
+}
+
+.home-page-austin .image-13 {
+  position: absolute;
+  top: 313px;
+  left: 363px;
+  width: 332px;
+  height: 58px;
+  aspect-ratio: 1.78;
+  object-fit: cover;
+}
+
+.home-page-austin .image-14 {
+  position: absolute;
+  top: 313px;
+  left: 707px;
+  width: 326px;
+  height: 58px;
+  aspect-ratio: 1.78;
+}
+
+.home-page-austin .image-15 {
+  position: absolute;
+  top: 166px;
+  left: 1375px;
+  width: 40px;
+  height: 40px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
