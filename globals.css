@@ -1,0 +1,42 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+* {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+html,
+body {
+  margin: 0px;
+  min-height: 100%;
+}
+/* a blue color as a generic focus style */
+button:focus-visible {
+  outline: 2px solid #4a90e2 !important;
+  outline: -webkit-focus-ring-color auto 5px !important;
+}
+a {
+  text-decoration: none;
+}
+/* @FONTWARNING[{"type": "restricted", "family": "Jersey 25-Regular", "weight": "400", "style": "normal", "allowsCrossOrigin": false}] */
+
+@font-face {
+  font-family: "Jersey 25-Regular";
+  src: local("Jersey 25-Regular");
+}
+/* @FONTWARNING[{"type": "restricted", "family": "Jost-Regular", "weight": "400", "style": "normal", "allowsCrossOrigin": false}] */
+
+@font-face {
+  font-family: "Jost-Regular";
+  src: local("Jost-Regular");
+}
+/* @FONTWARNING[{"type": "restricted", "family": "Idiqlat-Regular", "weight": "400", "style": "normal", "allowsCrossOrigin": false}] */
+
+@font-face {
+  font-family: "Idiqlat-Regular";
+  src: local("Idiqlat-Regular");
+}
+/* @FONTWARNING[{"type": "restricted", "family": "Imprima-Regular", "weight": "400", "style": "normal", "allowsCrossOrigin": false}] */
+
+@font-face {
+  font-family: "Imprima-Regular";
+  src: local("Imprima-Regular");
+}
